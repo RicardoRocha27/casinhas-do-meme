@@ -1,0 +1,102 @@
+{
+  "en": {
+    "links": [
+      { "name": "Home", "to": "" },
+      { "name": "Accommodations", "to": "accommodations" },
+      { "name": "Region", "to": "region" },
+      { "name": "Sustainability Policy", "to": "policy" },
+      { "name": "Contacts", "to": "contacts" }
+    ],
+    "footer": {
+      "Links": [
+        { "name": "Home", "href": "" },
+        { "name": "Accommodations", "href": "accommodations" },
+        { "name": "Region", "href": "region" },
+        { "name": "Sustainability Policy", "href": "policy" },
+        { "name": "Contacts", "href": "contacts" }
+      ],
+      "SocialMedia": [
+        {
+          "icon": "facebook.svg",
+          "name": "Facebook",
+          "href": "https://pt-pt.facebook.com/casinhasdomeme"
+        },
+        {
+          "icon": "instagram.svg",
+          "name": "Instagram",
+          "href": "https://www.instagram.com/casinhas.meme/"
+        }
+      ],
+      "Contacts": [
+        {
+          "icon": "phone.svg",
+          "text": "960 335 171",
+          "phone": true,
+          "email": false
+        },
+        {
+          "icon": "email.svg",
+          "text": "casinhas.meme@gmail.com",
+          "phone": false,
+          "email": true
+        },
+        {
+          "icon": "location.svg",
+          "text": "R. Joaquim Pereira de Matos, Manteigas",
+          "phone": false,
+          "email": false
+        }
+      ]
+    }
+  },
+  "pt": {
+    "links": [
+      { "name": "Início", "to": "" },
+      { "name": "Alojamentos", "to": "accommodations" },
+      { "name": "Região", "to": "region" },
+      { "name": "Política de Sustentabilidade", "to": "policy" },
+      { "name": "Contactos", "to": "contacts" }
+    ],
+    "footer": {
+      "Links": [
+        { "name": "Início", "href": "" },
+        { "name": "Alojamentos", "href": "accommodations" },
+        { "name": "Região", "href": "region" },
+        { "name": "Política de Sustentabilidade", "href": "policy" },
+        { "name": "Contactos", "href": "contacts" }
+      ],
+      "SocialMedia": [
+        {
+          "icon": "facebook.svg",
+          "name": "Facebook",
+          "href": "https://pt-pt.facebook.com/casinhasdomeme"
+        },
+        {
+          "icon": "instagram.svg",
+          "name": "Instagram",
+          "href": "https://www.instagram.com/casinhas.meme/"
+        }
+      ],
+      "Contacts": [
+        {
+          "icon": "phone.svg",
+          "text": "960 335 171",
+          "phone": true,
+          "email": false
+        },
+        {
+          "icon": "email.svg",
+          "text": "casinhas.meme@gmail.com",
+          "phone": false,
+          "email": true
+        },
+        {
+          "icon": "location.svg",
+          "text": "R. Joaquim Pereira de Matos, Manteigas",
+          "phone": false,
+          "email": false
+        }
+      ]
+    }
+  }
+}

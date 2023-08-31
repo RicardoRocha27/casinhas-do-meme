@@ -1,0 +1,74 @@
+{
+  "pt": {
+    "region": {
+      "title": "Serra da Estrela",
+      "subtitle": "Onde os picos deslumbrantes tocam o céu e a natureza tece sua encantadora tapeçaria.",
+      "section": [
+        {
+          "title": "Vale Glaciar do Zêzere",
+          "text": "O vale Glaciar do Zêzere é um dos maiores vales glaciares da Europa, com 13 km de extensão. Aqui, acabado de nascer no Cântaro Magro, o Zêzere corre, corre veloz e junto das suas margens é frequente ver rebanhos de cabras e ovelhas.",
+          "link": "https://goo.gl/maps/aCavjC4dssHirHev9",
+          "imageFirst": true,
+          "image": "region_1.jpg"
+        },
+        {
+          "title": "Passadiços do Mondego",
+          "text": "Os passadiços do Mondego têm um percurso de 12 km pelas margens do rio que lhes dá o nome e também pelos seus afluentes. Tem início junto à Barragem do Caldeirão (concelho da Guarda), seguindo depois pelo vale encaixado entre as montanhas, nas localidades de Trinta, Vila Soeiro e terminando em Videmonte. Ao longo do itinerário poderá desfrutar de paisagens deslumbrantes e deixar-se surpreender por uma flora e fauna magníficas. As Casinhas do Mé-Mé estão localizadas a 30 km dos Passadiços do Mondego.",
+          "link": "https://goo.gl/maps/iN4aeGNV6BD7T4kc9",
+          "imageFirst": false,
+          "image": "region_2.jpg"
+        },
+        {
+          "title": "Praias Fluviais",
+          "text": "A Serra da Estrela está repleta de belíssimas praias fluviais de água pura e cristalina.  As praias fluviais mais próximas das Casinhas do Mé-Mé são a da Relva da Reboleira nas margens do rio Zêzere (7,5km); a praia de Valhelhas (15 km) e a mais alta praia fluvial de Portugal, situada a 1400 m de altitude: Vale do Rossim (15 km). Nestas praias poderá dar uns mergulhos refrescantes e também praticar diversos desportos náuticos. No parque Natural da Serra da Estrela poderá, ainda, ficar a conhecer outras praias fluviais. Nas margens do Rio Alva encontra a praia de Vila Cova a Coelheira e a praia de Sandomil.",
+          "link": "https://goo.gl/maps/3vwBwXcGtWVFGjcT9",
+          "imageFirst": true,
+          "image": "region_3.jpg"
+        },
+        {
+          "title": "Covão D'Ametade",
+          "text": "Situado a cerca de 1500 metros de altitude, no sopé do Cântaro Magro e no início do Vale Glaciário, encontra-se o encantador Covão d'Ametade. Daqui, pode-se apreciar a majestosa presença dos afloramentos graníticos dos Cântaros (Magro, Gordo e Raso). Trata-se de uma depressão pouco drenada, localizada num covão glacial abaixo do Covão Cimeiro. O Covão d'Ametade é um dos locais mais emblemáticos e deslumbrantes da Serra da Estrela. A vegetação predominante, composta principalmente por bétulas, cria um ecossistema rico em biodiversidade",
+          "link": "https://goo.gl/maps/dYePw7VcxvatzWh68",
+          "imageFirst": false,
+          "image": "region_4.jpg"
+        }
+      ]
+    }
+  },
+  "en": {
+    "region": {
+      "title": "Serra da Estrela",
+      "subtitle": "Where breathtaking peaks touch the sky and nature weaves its enchanting tapestry.",
+      "section": [
+        {
+          "title": "Zêzere Glacial Valley",
+          "text": "The Zêzere Glacial Valley is one of the largest glacial valleys in Europe, stretching for 13 km. Here, freshly born from Cântaro Magro, the Zêzere river flows, flows swiftly, and it is common to see herds of goats and sheep along its banks.",
+          "link": "https://goo.gl/maps/aCavjC4dssHirHev9",
+          "imageFirst": true,
+          "image": "region_1.jpg"
+        },
+        {
+          "title": "Mondego Walkways",
+          "text": "The Mondego boardwalks cover a 12 km route along the riverbanks that give them their name, as well as their tributaries. It begins near the Caldeirão Dam (in the municipality of Guarda), then follows the narrow valley nestled between the mountains, passing through the towns of Trinta and Vila Soeiro, and finally ending in Videmonte. Throughout the itinerary, you can enjoy breathtaking landscapes and be surprised by magnificent flora and fauna. Casinhas do Mé-Mé are located 30 km away from the Mondego boardwalks.",
+          "link": "https://goo.gl/maps/iN4aeGNV6BD7T4kc9",
+          "imageFirst": false,
+          "image": "region_2.jpg"
+        },
+        {
+          "title": "Fluvial Beaches",
+          "text": "The Serra da Estrela is filled with beautiful river beaches with pure and crystalline water. The closest river beaches to Casinhas do Mé-Mé are Relva da Reboleira beach on the banks of the Zêzere River (7.5 km away), Valhelhas beach (15 km away), and the highest river beach in Portugal located at an altitude of 1400 m: Vale do Rossim (15 km away). At these beaches, you can take refreshing swims and also engage in various water sports. In the Serra da Estrela Natural Park, you can also discover other river beaches. Along the banks of the Alva River, you will find Vila Cova a Coelheira beach and Sandomil beach.",
+          "link": "https://goo.gl/maps/3vwBwXcGtWVFGjcT9",
+          "imageFirst": true,
+          "image": "region_3.jpg"
+        },
+        {
+          "title": "Covão D'Ametade",
+          "text": "Located at an altitude of approximately 1500 meters, at the foot of Cântaro Magro and at the beginning of the Glacial Valley, you will find the enchanting Covão d'Ametade. From here, one can appreciate the majestic presence of the granite outcrops of Cântaros (Magro, Gordo, and Raso). It is a poorly drained depression, situated in a glacial hollow below Covão Cimeiro. Covão d'Ametade is one of the most emblematic and breathtaking locations in Serra da Estrela. The predominant vegetation, mainly composed of birch trees, creates a biodiversity-rich ecosystem.",
+          "link": "https://goo.gl/maps/dYePw7VcxvatzWh68",
+          "imageFirst": false,
+          "image": "region_4.jpg"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "pt": {
+    "title": "Contactos",
+    "subtitle": "Tudo o que precisa para a sua próxima estadia de sonho.",
+    "info": [
+      {
+        "title": "Alojamentos locais",
+        "phone": { "text": "Telemóvel", "number": "+351 960 335 171" },
+        "email": { "text": "Email", "name": "casinhas.meme@gmail.com" },
+        "address": {
+          "text": "Morada",
+          "name": " Rua Joaquim Pereira de Matos, 78, 6260-143, Manteigas (Primeira Casinha e Sótão)",
+          "nameSec": "Largo da Liberdade, 4, 6260-148, Manteigas (Mansão do Mé-Mé)"
+        },
+        "social": {
+          "text": "Redes Sociais",
+          "content": [
+            {
+              "type": "Facebook",
+              "link": "https://pt-pt.facebook.com/casinhasdomeme"
+            },
+            {
+              "type": "Instagram",
+              "link": "https://www.instagram.com/casinhas.meme/"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Alojamentos de média e longa duração",
+        "phone": { "text": "Telemóvel", "number": "+351 960 335 171" },
+        "email": { "text": "Email", "name": "casinhas.meme@gmail.com" },
+        "address": {
+          "text": "Morada",
+          "name": "Rua Dr. Pereira de Matos, 59/61, 6260-117, Manteigas"
+        },
+        "social": {
+          "text": "Redes Sociais",
+          "content": [
+            {
+              "type": "Facebook",
+              "link": "https://pt-pt.facebook.com/casinhasdomeme"
+            },
+            {
+              "type": "Instagram",
+              "link": "https://www.instagram.com/casinhas.meme/"
+            }
+          ]
+        }
+      }
+    ],
+    "arrive": {
+      "titles": [
+        "Desde o Porto:",
+        "Desde Lisboa:",
+        "Desde España:",
+        "Coordenadas GPS:"
+      ],
+      "contents": [
+        "Autoestrada A1 em direção a Lisboa. Sair em Albergaria para a A25. Seguir na A25 até à Guarda – saída para a A23. Seguir na A23 e sair em Belmonte/ Manteigas. Seguir na estrada N232 até Manteigas.",
+        "Autoestrada A1 em direção ao Porto. Sair em Torres Novas para a A23. Seguir na A23 e sair em Belmonte/ Manteigas. Seguir na estrada N232 até Manteigas.  ",
+        "Entrando por Salamanca A62 dirección Portugal, hasta la frontera de Fuentes de Oñoro (España)/ Vilar Formoso (Portugal). Después seguir autopista A25, dirección Guarda. En seguida tomar la autopista A23 y salir en Belmonte/ Manteigas. Tomar la carretera N232 a Manteigas.",
+        "40.402213206241775, -7.537551404594071 (Apartamentos Alva, Zêzere e Mondego)",
+        "40.40297149331436, -7.541916818086832 (Primeira Casinha do Mé-Mé e Sótão do Mé-Mé)"
+      ]
+    }
+  },
+  "en": {
+    "title": "Contacts",
+    "subtitle": "Everything you need for your next dream stay.",
+    "info": [
+      {
+        "title": "Local Accommodations",
+        "phone": { "text": "Phone Number", "number": "+351 960 335 171" },
+        "email": { "text": "Email", "name": "casinhas.meme@gmail.com" },
+        "address": {
+          "text": "Address",
+          "name": " Rua Joaquim Pereira de Matos, 78, 6260-143, Manteigas (First Home and Attic)",
+          "nameSec": "Largo da Liberdade, 4, 6260-148, Manteigas (Mé-Mé's Mansion)"
+        },
+        "social": {
+          "text": "Social Media",
+          "content": [
+            {
+              "type": "Facebook",
+              "link": "https://pt-pt.facebook.com/casinhasdomeme"
+            },
+            {
+              "type": "Instagram",
+              "link": "https://www.instagram.com/casinhas.meme/"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Long and Medium Term Accommodations",
+        "phone": { "text": "Phone Number", "number": "+351 960 335 171" },
+        "email": { "text": "Email", "name": "casinhas.meme@gmail.com" },
+        "address": {
+          "text": "Address",
+          "name": "Rua Dr. Pereira de Matos, 59/61, 6260-117, Manteigas"
+        },
+        "social": {
+          "text": "Social Media",
+          "content": [
+            {
+              "type": "Facebook",
+              "link": "https://pt-pt.facebook.com/casinhasdomeme"
+            },
+            {
+              "type": "Instagram",
+              "link": "https://www.instagram.com/casinhas.meme/"
+            }
+          ]
+        }
+      }
+    ],
+    "arrive": {
+      "titles": [
+        "From Porto:",
+        "From Lisbon:",
+        "From Spain:",
+        "GPS Coordinates:"
+      ],
+      "contents": [
+        "Highway A1 towards Lisbon. Take the exit to Albergaria for A25. Continue on A25 until Guarda - exit to A23. Follow A23 and take the exit to Belmonte/Manteigas. Continue on road N232 to Manteigas.",
+        "Highway A1 towards Porto. Take the exit to Torres Novas for A23. Continue on A23 and take the exit to Belmonte/Manteigas. Continue on road N232 to Manteigas.",
+        "Entering through Salamanca A62 heading towards Portugal, until the border of Fuentes de Oñoro (Spain)/Vilar Formoso (Portugal). Then continue on highway A25, heading towards Guarda. Shortly after, take highway A23 and exit at Belmonte/Manteigas. Take road N232 to Manteigas.",
+        "40.402213206241775, -7.537551404594071 (Mondego, Zêzere and Alva Apartments)",
+        "40.40297149331436, -7.541916818086832 (Mé-Mé's First Home and Attic)"
+      ]
+    }
+  }
+}

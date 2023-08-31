@@ -1,0 +1,456 @@
+{
+  "pt": {
+    "localAccommodations": {
+      "title": "Alojamentos locais",
+      "subtitle": "Ideais para uma escapadela na natureza",
+      "accommodations": [
+        {
+          "name": "A Primeira Casinha do Mé-Mé",
+          "description": "A Primeira Casinha do Mé-Mé fica localizada no centro da Vila da Manteigas. Em tempos idos esteve inserida num antigo bairro fabril. Atualmente, é um apartamento confortável com dois quartos, uma cozinha totalmente equipada, uma sala com salamandra e uma casa de banho espaçosa. Convida-nos aos Serões em família, a contar e ouvir histórias pela noite dentro até o cansaço tomar conta de nós.  ",
+          "image": "primeiracasinha_1.jpg",
+          "link": "primeiracasinha",
+          "buttonLink": "https://www.booking.com/hotel/pt/a-primeira-casinha-do-me-me.pt-pt.html",
+          "available": "True",
+          "personNumber": "Acomoda até 5 Adultos",
+          "comodities": {
+            "Cozinha": [
+              "Forno",
+              "Fogão",
+              "Frigorífico",
+              "Micro-ondas",
+              "Máquina de Café",
+              "...Utensìlios básicos de cozinha"
+            ],
+            "Sala de estar": [
+              "Ar Condicionado",
+              "Wi-fi",
+              "Jogos de tabuleiro",
+              "Salamandra",
+              "Televisão"
+            ],
+            "Quarto": ["Roupas de cama", "Toalhas"],
+            "Casa de banho": [
+              "Secador de cabelo",
+              "Secador de toalhas",
+              "Duche"
+            ],
+            "Exterior": ["Estacionamento público gratuito"]
+          }
+        },
+        {
+          "name": "O Sotão do Mé-Mé",
+          "description": "O Sotão do Mé-Mé convida-nos, no Inverno, a uma aconchegante noite junto à salamandra, acompanhada de um filme. E no Verão, apela-nos a um sesta de fim de tarde, depois de todo o despertar de sentidos que a Serra nos proporciona…",
+          "image": "sotao_1.jpg",
+          "link": "sotao",
+          "buttonLink": "https://www.booking.com/hotel/pt/o-sotao-do-me-me.pt-pt.html",
+          "available": "True",
+          "personNumber": "Acomoda até 2 Adultos + 2 Crianças",
+          "comodities": {
+            "Cozinha": [
+              "Fogão",
+              "Frigorífico",
+              "Micro-ondas",
+              "Máquina de Café"
+            ],
+            "Sala de estar": [
+              "Ar Condicionado",
+              "Wi-fi",
+              "Jogos de tabuleiro",
+              "Salamandra",
+              "Televisão"
+            ],
+            "Quarto": ["Roupas de cama", "Toalhas"],
+            "Casa de banho": [
+              "Secador de cabelo",
+              "Secador de toalhas",
+              "Duche"
+            ],
+            "Exterior": ["Estacionamento público gratuito"]
+          }
+        },
+        {
+          "name": "Mansão do Mé-Mé: Apartamento Alva",
+          "description": "O Alva é jovial, prático e com ligeiros “retoques” vintage. Convida-nos às caminhadas, aos mergulhos no rio, aos passeios de bicicleta, às mil promessas que os dias na Serra nos proporcionam. (Faz parte da mansão do Mé-Mé) ",
+          "image": "alva_1.jpg",
+          "link": "alva",
+          "buttonLink": "https://www.booking.com/hotel/pt/a-mansao-do-me-me.pt-pt.html",
+          "available": "True",
+          "personNumber": "Acomoda até 2 Adultos + 2 Crianças",
+          "comodities": {
+            "Cozinha": [
+              "Fogão",
+              "Frigorífico",
+              "Micro-ondas",
+              "Máquina de Café"
+            ],
+            "Sala de estar": [
+              "Ar Condicionado",
+              "Wi-fi",
+              "Jogos de tabuleiro",
+              "Salamandra",
+              "Televisão"
+            ],
+            "Quarto": ["Roupas de cama", "Toalhas"],
+            "Casa de banho": [
+              "Secador de cabelo",
+              "Secador de toalhas",
+              "Duche"
+            ],
+            "Exterior": ["Estacionamento público gratuito", "Varanda"]
+          }
+        },
+        {
+          "name": "Mansão do Mé-Mé: Apartamento Mondego",
+          "description": "Com uma bela vista para o Vale Glaciar, o Mondego convida-nos ao repouso e à contemplação. Depois de um dia em cheio, contempla-se o Vale, as estrelas, o luar, inspiram-se os aromas da Serra e fazem-se mil planos para as aventuras do dia seguinte. (Faz parte da mansão do Mé-Mé) ",
+          "image": "mondego_1.jpg",
+          "link": "mondego",
+          "buttonLink": "https://www.booking.com/hotel/pt/a-mansao-do-me-me.pt-pt.html",
+          "available": "True",
+          "personNumber": "Acomoda até 2 Adultos + 2 Crianças",
+          "comodities": {
+            "Cozinha": [
+              "Fogão",
+              "Frigorífico",
+              "Micro-ondas",
+              "Máquina de Café"
+            ],
+            "Sala de estar": [
+              "Ar Condicionado",
+              "Wi-fi",
+              "Jogos de tabuleiro",
+              "Salamandra",
+              "Televisão"
+            ],
+            "Quarto": ["Roupas de cama", "Toalhas"],
+            "Casa de banho": [
+              "Secador de cabelo",
+              "Secador de toalhas",
+              "Duche"
+            ],
+            "Exterior": ["Estacionamento público gratuito", "Varanda"]
+          }
+        },
+        {
+          "name": "Mansão do Mé-Mé: Apartamento Zêzere",
+          "description": "O Zêzere é um apartamento cheio de luz e sol que convida a relaxar na varanda nas longas tardes de verão, depois de uma ida às praias fluviais da região ou após uma bela caminhada pelos inúmeros trilhos na Serra. (Faz parte da mansão do Mé-Mé) ",
+          "image": "zezere_1.jpg",
+          "link": "zezere",
+          "buttonLink": "https://www.booking.com/hotel/pt/a-mansao-do-me-me.pt-pt.html",
+          "available": "True",
+          "personNumber": "Acomoda até 2 Adultos + 2 Crianças",
+          "comodities": {
+            "Cozinha": [
+              "Fogão",
+              "Frigorífico",
+              "Micro-ondas",
+              "Máquina de Café"
+            ],
+            "Sala de estar": [
+              "Ar Condicionado",
+              "Wi-fi",
+              "Jogos de tabuleiro",
+              "Salamandra",
+              "Televisão"
+            ],
+            "Quarto": ["Roupas de cama", "Toalhas"],
+            "Casa de banho": [
+              "Secador de cabelo",
+              "Secador de toalhas",
+              "Duche"
+            ],
+            "Exterior": ["Estacionamento público gratuito", "Varanda"]
+          }
+        }
+      ]
+    },
+    "lmtAccommodations": {
+      "title": "Alojamentos para arrendamento de Média e Longa duração",
+      "subtitle": "Para aqueles que não querem deixar nada por explorar",
+      "accommodations": [
+        {
+          "name": "Apartamento Bétula",
+          "description": "Embarque numa serena escapadela no Apartamento Bétula, um oásis escondido no meio da majestosa Serra da Estrela. Este apartamento de médio a longo prazo convida-o a relaxar e reconectar-se com a natureza. Com a sua localização idílica e um conforto sem igual, o Apartamento Bétula promete uma escapadela inesquecível.",
+          "image": "ex_1.jpg",
+          "link": "betula",
+          "buttonLink": "/",
+          "available": "False",
+          "personNumber": "5",
+          "comodities": {
+            "Cozinha": [],
+            "Sala de estar": [],
+            "Quarto": [],
+            "Casa de banho": [],
+            "Exterior": []
+          }
+        },
+        {
+          "name": "Apartamento Teixo",
+          "description": "Este apartamento acolhedor é perfeito para estadias de médio prazo, oferecendo um retiro sereno numa localização tão nobre quanto conveniente. Quer esteja à procura de aventuras de inverno ou de verão, o Apartamento Teixo proporciona uma experiência tranquila e confortável. Venha descubrir o encanto desta deliciosa escapadela no coração da Serra da Estrela.",
+          "image": "ex_2.jpg",
+          "link": "teixo",
+          "buttonLink": "/",
+          "available": "False",
+          "personNumber": "5",
+          "comodities": {
+            "Cozinha": [],
+            "Sala de estar": [],
+            "Quarto": [],
+            "Casa de banho": [],
+            "Exterior": []
+          }
+        },
+        {
+          "name": "Apartamento Castanheiro",
+          "description": "Entre num reino de puro encanto no Apartamento Castanheiro, um apartamento excepcional que tem lugar no coração da etérea Serra da Estrela. Desvende os segredos dos pores do sol de inverno e das noites estreladas, que, assumem o protagonismo e transformam momentos comuns em memórias extraordinárias. No Apartamento Castanheiro, o ordinário desaparece, e um mundo de maravilhas desdobra-se à sua porta.",
+          "image": "ex_3.jpg",
+          "link": "castanheiro",
+          "buttonLink": "/",
+          "available": "False",
+          "personNumber": "5",
+          "comodities": {
+            "Cozinha": [],
+            "Sala de estar": [],
+            "Quarto": [],
+            "Casa de banho": [],
+            "Exterior": []
+          }
+        },
+        {
+          "name": "Apartamento Beijames",
+          "description": "Aninhe-se no Apartamento Beijames e testemunhe a inigualável fusão de conforto e aventura que se dá à medida que as noites de inverno se transformam em portais para narrativas imersivas. No verão, liberte o seu explorador interior e embarque em emocionantes caminhadas nas montanhas, regressando ao fim do dia para um merecido descanso.",
+          "image": "ex_3.jpg",
+          "link": "beijames",
+          "buttonLink": "/",
+          "available": "False",
+          "personNumber": "5",
+          "comodities": {
+            "Cozinha": [],
+            "Sala de estar": [],
+            "Quarto": [],
+            "Casa de banho": [],
+            "Exterior": []
+          }
+        }
+      ]
+    }
+  },
+  "en": {
+    "localAccommodations": {
+      "title": "Local Accommodations",
+      "subtitle": "Ideal for a nature getaway",
+      "accommodations": [
+        {
+          "name": "The first Mé-Mé home",
+          "description": "The first Mé-Mé home is located in the center of the village of Manteigas. In the past, it was part of an old factory district. Currently, it is a comfortable apartment with two bedrooms, a fully equipped kitchen, a living room with a fireplace, and a spacious bathroom. It invites us to spend evenings with family, sharing and listening to stories late into the night until tiredness takes over us.",
+          "image": "primeiracasinha_1.jpg",
+          "link": "primeiracasinha",
+          "buttonLink": "https://www.booking.com/hotel/pt/a-primeira-casinha-do-me-me.pt-pt.html",
+          "available": "True",
+          "personNumber": "Accommodates up to 5 Adults",
+          "comodities": {
+            "Kitchen": [
+              "Stove",
+              "Oven",
+              "Refrigerator",
+              "Eletric Kettle",
+              "Microwave",
+              "Coffe Machine"
+            ],
+            "Living room": [
+              "Air conditioning",
+              "Television",
+              "Wi-fi",
+              "Board Games",
+              "Fireplace"
+            ],
+            "Bedroom": ["Bed Sheets", "Towels"],
+            "Bathroom": ["Hairdryer", "Towel dryer", "Shower"],
+            "Outside": ["Public Free Parking"]
+          }
+        },
+        {
+          "name": "Mé-Mé's attic",
+          "description": "Mé-Mé's Attic invites us, in the winter, to a cozy night by the fireplace, accompanied by a movie. And in the summer, it calls us to an afternoon nap, after all the awakening of senses that the mountains provide us...",
+          "image": "sotao_1.jpg",
+          "link": "sotao",
+          "buttonLink": "https://www.booking.com/hotel/pt/o-sotao-do-me-me.pt-pt.html",
+          "available": "True",
+          "personNumber": "Accommodates up to 2 Adults + 2 Children",
+          "comodities": {
+            "Kitchen": [
+              "Stove",
+              "Refrigerator",
+              "Eletric Kettle",
+              "Microwave",
+              "Coffe Machine"
+            ],
+            "Living room": [
+              "Air conditioning",
+              "Television",
+              "Wi-fi",
+              "Board Games",
+              "Fireplace"
+            ],
+            "Bedroom": ["Bed Sheets", "Towels"],
+            "Bathroom": ["Hairdryer", "Towel dryer", "Shower"],
+            "Outside": ["Public Free Parking", "Balcony"]
+          }
+        },
+        {
+          "name": "Mé-Mé's Mansion: Alva Apartament",
+          "description": "Alva is youthful, practical, and with slight vintage touches. It invites us to go for walks, to swim in the river, to ride bicycles, and to the thousand promises that the days in the mountains offer us. (Part of Mé-Mé's mansion) ",
+          "image": "alva_1.jpg",
+          "link": "alva",
+          "buttonLink": "https://www.booking.com/hotel/pt/a-mansao-do-me-me.pt-pt.html",
+          "available": "True",
+          "personNumber": "Accommodates up to 2 Adults + 2 Children",
+          "comodities": {
+            "Kitchen": [
+              "Stove",
+              "Refrigerator",
+              "Eletric Kettle",
+              "Microwave",
+              "Coffe Machine"
+            ],
+            "Living room": [
+              "Air conditioning",
+              "Television",
+              "Wi-fi",
+              "Board Games",
+              "Fireplace"
+            ],
+            "Bedroom": ["Bed Sheets", "Towels"],
+            "Bathroom": ["Hairdryer", "Towel dryer", "Shower"],
+            "Outside": ["Public Free Parking", "Balcony"]
+          }
+        },
+        {
+          "name": "Mé-Mé's Mansion: Mondego Apartament",
+          "description": "With a beautiful view of the Glacial Valley, Mondego invites us to rest and contemplate. After a fulfilling day, one can admire the valley, the stars, the moonlight, be inspired by the scents of the mountains, and make a thousand plans for the adventures of the next day. (Part of Mé-Mé's mansion) ",
+          "image": "mondego_1.jpg",
+          "link": "mondego",
+          "buttonLink": "https://www.booking.com/hotel/pt/a-mansao-do-me-me.pt-pt.html",
+          "available": "True",
+          "personNumber": "Accommodates up to 2 Adults + 2 Children",
+          "comodities": {
+            "Kitchen": [
+              "Stove",
+              "Refrigerator",
+              "Eletric Kettle",
+              "Microwave",
+              "Coffe Machine"
+            ],
+            "LivingRoom": [
+              "Air conditioning",
+              "Television",
+              "Wi-fi",
+              "Board Games",
+              "Fireplace"
+            ],
+            "Bedroom": ["Bed Sheets", "Towels"],
+            "Bathroom": ["Hairdryer", "Towel dryer", "Shower"],
+            "Outside": ["Public Free Parking", "Balcony"]
+          }
+        },
+        {
+          "name": "Mé-Mé's Mansion: Zêzere Apartament",
+          "description": "Zêzere is a bright and sunny apartment that invites relaxation on the balcony during the long summer afternoons, after a visit to the river beaches in the region or after a beautiful hike along the numerous trails in the mountains. (Part of Mé-Mé's mansion) ",
+          "image": "zezere_1.jpg",
+          "link": "zezere",
+          "buttonLink": "https://www.booking.com/hotel/pt/a-mansao-do-me-me.pt-pt.html",
+          "available": "True",
+          "personNumber": "Accommodates up to 2 Adults + 2 Children",
+          "comodities": {
+            "Kitchen": [
+              "Stove",
+              "Refrigerator",
+              "Eletric Kettle",
+              "Microwave",
+              "Coffe Machine"
+            ],
+            "Living room": [
+              "Air conditioning",
+              "Television",
+              "Wi-fi",
+              "Board Games",
+              "Fireplace"
+            ],
+            "Bedroom": ["Bed Sheets", "Towels"],
+            "Bathroom": ["Hairdryer", "Towel dryer", "Shower"],
+            "Outside": ["Public Free Parking", "Balcony"]
+          }
+        }
+      ]
+    },
+    "lmtAccommodations": {
+      "title": "Long and Medium Term Rental Accommodations",
+      "subtitle": "For those who don't want to leave anything unexplored",
+      "accommodations": [
+        {
+          "name": "Bétula Apartament",
+          "description": "Embark on a serene retreat at the Bétula Apartment, a hidden oasis amidst the majestic Serra da Estrela. This medium to long term apartment beckons you to unwind and reconnect with nature. With its idyllic location and modern comforts, the Bétula Home promises an unforgettable escape, where cherished memories are made.",
+          "image": "ex_1.jpg",
+          "link": "betula",
+          "buttonLink": "/",
+          "available": "False",
+          "personNumber": "5",
+          "comodities": {
+            "Kitchen": [],
+            "LivingRoom": [],
+            "Bedroom": [],
+            "Bathroom": [],
+            "Outside": []
+          }
+        },
+        {
+          "name": "Teixo Apartament",
+          "description": "This cozy apartment is perfect for medium-term stays, offering a serene retreat in a convenient location. Whether you're seeking winter or summer adventures, the Teixo Apartment provides a tranquil and comfortable experience. Discover the charm of this delightful getaway in the heart of Serra da Estrela.",
+          "image": "ex_2.jpg",
+          "link": "teixo",
+          "buttonLink": "/",
+          "available": "False",
+          "personNumber": "5",
+          "comodities": {
+            "Kitchen": [],
+            "Living room": [],
+            "Bedroom": [],
+            "Bathroom": [],
+            "Outside": []
+          }
+        },
+        {
+          "name": "Castanheiro Apartament",
+          "description": "Step into a realm of pure enchantment at the Castanheiro Apartment, an exceptional apartment nestled in the heart of the ethereal Serra da Estrela. Unveil the secrets of the winter sunsets as the shiny stars takeover and transform ordinary moments into extraordinary memories. At the Castanheiro Apartment, the ordinary fades away, and a world of wonder unfurls at your doorstep.",
+          "image": "ex_3.jpg",
+          "link": "castanheiro",
+          "buttonLink": "/",
+          "available": "False",
+          "personNumber": "5",
+          "comodities": {
+            "Kitchen": [],
+            "Living room": [],
+            "Bedroom": [],
+            "Bathroom": [],
+            "Outside": []
+          }
+        },
+        {
+          "name": "Beijames Apartament",
+          "description": "Escape to the Beijames Apartment and experience the fusion of comfort and adventure as winter nights become gateways to immersive storytelling and sky sightseeing. In the summer, unleash your inner explorer and embark on thrilling mountain treks, returning to the Beijames Apartment for well-deserved rest.",
+          "image": "ex_3.jpg",
+          "link": "beijames",
+          "buttonLink": "/",
+          "available": "False",
+          "personNumber": "5",
+          "comodities": {
+            "Kitchen": [],
+            "Living room": [],
+            "Bedroom": [],
+            "Bathroom": [],
+            "Outside": []
+          }
+        }
+      ]
+    }
+  }
+}

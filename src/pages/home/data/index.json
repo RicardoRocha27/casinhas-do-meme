@@ -1,0 +1,186 @@
+{
+  "pt": {
+    "banner": [
+      {
+        "title": "Serra da Estrela",
+        "text": "Fique a conhecer os pontos icónicos da Serra",
+        "hasImage": true,
+        "image": "serra.jpg"
+      },
+      {
+        "title": "Venha viver o charme da vila",
+        "text": "Em Pleno Coração da Serra da Estrela, com paisagens multicolores e tradições milenares, abre-nos os braços a Vila de Manteigas.",
+        "hasImage": false
+      }
+    ],
+    "info": [
+      {
+        "title": "Mais sobre Manteigas...",
+        "text": "A vila de Manteigas é o berço do rio Zêzere, o segundo maior rio exclusivamente português, logo após o Mondego, também ele nascido na Serra da Estrela. Juntamente com Seia e Covilhã, Manteigas é um dos três municípios que partilham o ponto mais elevado de Portugal Continental, a Torre da Serra da Estrela. Encontra em Manteigas, locais de extrema beleza: o Vale Glaciar do Zêzere, um dos maiores Vales Glaciares da Europa; A Rota das Faias, com a maior mancha de faias da Península Ibérica; a Cascata do Poço do Inferno, uma queda de água gélida e cristalina de rara beleza; o Covão d’ Ametade entre muitos outros.",
+        "imageFirst": true,
+        "image": "lagoas.jpg"
+      },
+      {
+        "title": "Mais sobre a Serra...",
+        "text": "A Serra da Estrela é a principal Serra de Portugal Continental e é também o berço de cinco lindíssimos rios: Mondego, Zêzere, Alva, Alvôco e Beijames. A paisagem do Parque Natural distingue-se pelos rochedos, fragas e penhascos. A Serra é ainda um testemunho fundamental dos vestígios da última glaciação, que ocorreu há cerca de 30 mil anos, apresentando uma elevada geodiversidade e rochas com idades até cerca de 600 milhões de anos. Ao longo de todo o Parque Natural é possível fazer passeios pedestres, a cavalo ou em bicicleta. Existem centenas de quilómetros de trilhos onde poderá desfrutar de toda a beleza natural da Serra.",
+        "imageFirst": false,
+        "image": "fauna.jpg"
+      }
+    ],
+    "accommodations": [
+      {
+        "title": "Alojamentos Locais",
+        "text": "Ideais para uma escapadela na natureza",
+        "image": "acc_2.jpg",
+        "link": "no need"
+      },
+      {
+        "title": "Alojamentos para arrendamento de média e longa duração",
+        "text": "Para aqueles que não querem deixar nada por explorar",
+        "image": "acc_1.jpg",
+        "link": "no need"
+      }
+    ],
+    "details": {
+      "title": "As Casinhas do Mé-Mé",
+      "subtitle": "Mais que um alojamento, uma vivência inigualável",
+      "text1": "Em Pleno Coração da Serra da Estrela, com paisagens multicolores e tradições milenares, abre-nos os braços a Vila de Manteigas. No Outono, as folhas douradas das faias enchem de magia o nosso olhar. Na Primavera os mil tons de verde, as flores, as águas das fontes, a neve a derreter, convidam-nos à aventura.",
+      "text2": "No Verão as lagoas, as praias, o sol, as noites longas, relaxam-nos e, no Inverno, a neve e as chaminés apelam ao aconchego. As Casinhas do Mé-Mé convidam-no para experiências inesquecíveis o ano inteiro. Deixe-se preencher pelo o brilho da Estrela!"
+    },
+    "form": {
+      "title": "Envie-nos uma mensagem",
+      "buttonText": "Enviar",
+      "firstName": {
+        "text": "Primeiro Nome",
+        "error": "Por favor insira um nome válido.",
+        "required": "Por favor insira o seu primeiro nome."
+      },
+      "lastName": {
+        "text": "Último Nome",
+        "error": "Por favor insira um nome válido.",
+        "required": "Por favor insira o seu último nome."
+      },
+      "email": {
+        "text": "Email",
+        "error": "Por favor insira um email váido.",
+        "required": "Por favor insira o seu email."
+      },
+      "phone": {
+        "text": "Telemóvel",
+        "error": "Por favor insira um número de telemóvel válido."
+      },
+      "subject": {
+        "text": "Assunto",
+        "required": "Por favor insira um assunto."
+      },
+      "other": {
+        "text": "Outro Assunto",
+        "error": "Por favor insira no máximo 20 caracteres.",
+        "required": "Por favor insira um assunto."
+      },
+      "body": {
+        "text": "Corpo da Mensagem",
+        "required": "Por favor insira o corpo da mensagem."
+      },
+      "subjects": [
+        "Alojamentos Locais",
+        "Alojamentos de média e longa duração",
+        "Região",
+        "Reservas",
+        "Outro"
+      ]
+    }
+  },
+  "en": {
+    "banner": [
+      {
+        "title": "Serra da Estrela",
+        "text": "Discover the iconic landmarks of the Serra",
+        "hasImage": true,
+        "image": "serra.jpg"
+      },
+      {
+        "title": "The charm of village life",
+        "text": "In the heart of the Serra da Estrela, with multicolored landscapes and millennia-old traditions, the Village of Manteigas welcomes us with open arms.",
+        "hasImage": false
+      }
+    ],
+    "info": [
+      {
+        "title": "More about Manteigas...",
+        "text": "The village of Manteigas is the birthplace of the Zêzere River, the second largest river exclusively within Portugal, second only to the Mondego River, also with origin in Serra da Estrela. Along with Seia and Covilhã, Manteigas is one of the three municipalities that share the highest point in mainland Portugal, the Torre of Serra da Estrela. In Manteigas, you can find places of extreme beauty, such as the Glacial Valley of Zêzere, one of the largest glacial valleys in Europe; the Rota das Faias, with the largest beech forest in the Iberian Peninsula; the Poço do Inferno Waterfall, a stunning and crystalline cascade; the Covão d'Ametade, among many others.",
+        "imageFirst": true,
+        "image": "lagoas.jpg"
+      },
+      {
+        "title": "More about Serra da Estrela...",
+        "text": "The Serra da Estrela is the main mountain range in mainland Portugal and is also the birthplace of five beautiful rivers: Mondego, Zêzere, Alva, Alvôco, and Beijames. The landscape of the Natural Park is characterized by rocks, cliffs, and crags. The Serra is also a crucial testimony to the remnants of the last glaciation, which occurred about 30,000 years ago, displaying high geodiversity and rocks dating back up to approximately 600 million years. Throughout the entire Natural Park, it is possible to go on hiking, horseback riding, or cycling tours. There are hundreds of kilometers of trails where you can enjoy the natural beauty of the Serra.",
+        "imageFirst": false,
+        "image": "fauna.jpg"
+      }
+    ],
+    "accommodations": [
+      {
+        "title": "Local Accommodations",
+        "text": "Ideal for a nature getaway",
+        "image": "acc_2.jpg",
+        "link": "no need"
+      },
+      {
+        "title": "Medium and Long Term Rental Accommodations",
+        "text": "For those who don't want to leave anything unexplored",
+        "image": "acc_1.jpg",
+        "link": "no need"
+      }
+    ],
+    "details": {
+      "title": "As Casinhas do Mé-Mé",
+      "subtitle": "More than just lodging, an unparalleled experience",
+      "text1": "In the heart of Serra da Estrela, with its multicolored landscapes and ancient traditions, the village of Manteigas welcomes us with open arms. In the autumn, the golden leaves of the beech trees enchant our gaze with magic. In the spring, the thousand shades of green, the flowers, the flowing springs, and the melting snow invite us to embark on adventures.",
+      "text2": "During the summer, the lagoons, the beaches, the sun, and the long nights relax us, while in winter, the snow and chimneys call for cozy moments. As casinhas do Mé-Mé offer unforgettable experiences all year round. Let yourself be fulfilled by the brilliance of the Estrela!"
+    },
+    "form": {
+      "title": "Send us a Message",
+      "buttonText": "Send",
+      "firstName": {
+        "text": "First Name",
+        "error": "Please insert a valid name.",
+        "required": "Please fill your first name."
+      },
+      "lastName": {
+        "text": "Last Name",
+        "error": "Please insert a valid name.",
+        "required": "Please fill your last name."
+      },
+      "email": {
+        "text": "Email",
+        "error": "Please insert a valid email.",
+        "required": "Please fill your email."
+      },
+      "phone": {
+        "text": "Phone",
+        "error": "Please insert a valid phone number."
+      },
+      "subject": {
+        "text": "Subject",
+        "required": "Please insert a subject."
+      },
+      "other": {
+        "text": "Another Subject",
+        "error": "Please insert at most 20 characters.",
+        "required": "Please fill your subject."
+      },
+      "body": {
+        "text": "Message Body",
+        "required": "Please fill your message."
+      },
+      "subjects": [
+        "Local Accommodations",
+        "Long and Medium Term Accommodations",
+        "Region",
+        "Booking",
+        "Other"
+      ]
+    }
+  }
+}
