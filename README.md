@@ -1,6 +1,6 @@
 # Casinhas do mémé - Serra da Estrela House Rental Company Website
 
-<!-- ADD PHOTO HERE -->
+![casinhas-do-meme](https://github.com/RicardoRocha27/casinhas-do-meme/assets/133434333/7adb48a5-17fa-4aef-a9b1-83e27ee1de3b)
 
 Welcome to the GitHub repository of the Casinhas do Mémé website, the house rental company situated in the picturesque Serra da Estrela region. This website provides comprehensive information about the houses available for rent, the charming village of Manteigas where the houses are located, as well as insights into the stunning Serra da Estrela. Users can explore details about each house, including a gallery showcasing all the rooms of the property. Furthermore, users have the option to reach out to the company via email and directly access the reservation site to book the houses.
 
